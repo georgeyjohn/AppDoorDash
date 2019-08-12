@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppDoorDash</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_description">Restaurant Description</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="status">Status</string>
+    <string name="cell_number">Cell Number</string>
+    <string name="total_rating">Total Rating</string>
+</resources>
